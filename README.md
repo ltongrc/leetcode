@@ -1,4 +1,4 @@
 leetcode
 ========
 
-Practices in LeetCode
+Practices in LeetCode. Java
